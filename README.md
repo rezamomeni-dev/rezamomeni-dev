@@ -108,4 +108,4 @@ _Project: Autoclave Monitoring System_
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammadreza-taghimomeni/)
 - 🧑‍💻 [GitHub](https://github.com/mohammadreza-taghimomeni)
 - 🌐 [Portfolio](https://mrtaghimomeni.vercel.app/)
-- ✉️ [mrm.tm95@gmail.com](mrm.tm95@gmail.com)
+- ✉️ [Email](mailto:mrm.tm95@gmail.com)
