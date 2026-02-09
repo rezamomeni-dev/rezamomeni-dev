@@ -1,111 +1,90 @@
-# 👋 Hi, I'm Mohammad Reza Taghimomeni
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohammad+Reza.;Senior+Frontend+Engineer." alt="Typing SVG" />
+  
+  <h2 align="center">Architecting Scalable Frontend Systems 🚀</h2>
+  
+  <p align="center">
+    <b>React.js | TypeScript | Clean Architecture | Performance Optimization</b>
+  </p>
 
-Senior Frontend Developer with 8+ years of experience building scalable, high-quality web applications using **React, Angular, and TypeScript**.  
-I specialize in frontend architecture, state management, performance optimization, and clean, maintainable UI systems.
-
-🌍 Open to international & EU-based contract or hybrid roles  
-🚀 Comfortable with quick onboarding into complex, product-driven environments
-
----
-
-## 🧠 What I care about
-- Clean Architecture & readable code
-- Performance, UX, and scalability
-- Testable and maintainable frontend systems
-- Strong collaboration with product & design teams
-- Mentoring and growing engineering teams
-
----
-
-## 🛠 Tech Stack
-
-### Frontend & Frameworks
-- React.js, Vue.js, Angular (working knowledge)
-- TypeScript, JavaScript (ES6+)
-- Modular & maintainable UI development
-
-### State & Data
-- Redux Toolkit
-- Zustand
-- React Query
-
-### UI & Design Systems
-- Styled Components
-- Tailwind CSS
-- Material UI
-- Ant Design
-- Storybook
-
-### Quality & Testing
-- Jest
-- Unit Testing
-- Clean Architecture
-- SOLID Principles
-
-### Tooling & DevOps
-- Git, Gitflow
-- CI/CD pipelines
-- Docker
-- Webpack
-- Sentry
-- Azure, TFS
-- Microsoft Teams
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohammadreza-taghimomeni/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://mrtaghimomeni.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:mrm.tm95@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 💼 Professional Experience
+### 👨‍💻 About Me
 
-### **Senior Frontend Developer — Nexus**
-*Apr 2023 – Present*
+I am a **Senior Frontend Developer** with **8+ years of experience** building high-performance web applications. My focus is on **Scalability**, **Clean Architecture**, and **User Experience**.  
+Currently based in Iran, I am **open to international/EU-based contract or hybrid roles** and ready to integrate into complex, product-driven environments.
 
-- Overhauled AI-driven messaging, calendar, and planning tools, reducing time-to-decision by **40%** and increasing delivery velocity.
-- Designed a modern messaging architecture using **Zustand, React Query, and IndexedDB**, enabling offline-ready, high-performance experiences.
-- Mentored **8+ engineers** directly and contributed to the professional growth of **20+ developers** across teams.
-- Established **25+ CI/CD pipelines** and Dockerized applications to improve deployment efficiency.
-- Led development of an enterprise messaging platform with real-time chat and ticketing, reducing internal email usage by **60%**.
-
----
-
-### **Frontend Developer — Kasra**
-*Apr 2018 – May 2023*
-
-- Built **10+ production-grade web applications and admin dashboards** using React, Redux, and Angular.
-- Developed **100+ reusable components**, improving development speed and consistency.
-- Improved performance via lazy loading, code splitting, and bundle optimization (up to **25% faster initial load**).
-- Delivered a GEO-fence module for attendance tracking, increasing feature engagement by **30%**.
-- Actively contributed to Agile/Scrum processes, code reviews, and release cycles.
+- 🔭 I’m currently working on **AI-driven messaging & planning tools** at Nexus.
+- 🏗️ I specialize in **Frontend Architecture**, **State Management (Zustand/Redux)**, and **CI/CD**.
+- ⚡ **Impact Highlight:** Reduced internal email usage by **60%** and time-to-decision by **40%** through optimized UI/UX.
+- 💬 Ask me about **React Internals, Performance Tuning, and Micro-frontends**.
 
 ---
 
-## 🚀 Featured Project
+### 🛠️ Tech Stack
 
-### **Jtradehelp – AI-Powered Trade Intelligence Platform**
-*Dec 2020 – Nov 2021*
+<div align="center">
 
-- Developed Phase One of a **data-intensive Angular application** for analyzing international trade data.
-- Built scalable UI components and analytical dashboards integrating large datasets.
-- Worked closely with product and data teams to deliver AI-assisted insights with a user-friendly experience.
+| Core & Languages | Frameworks & Libs | State & Data | Styling & UI | Tools & DevOps |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=ts,js,html,css" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue" /> | <img src="https://skillicons.dev/icons?i=redux,postgresql,mysql" /> | <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,webpack,jest" /> |
 
-**Tech:** Angular, TypeScript, RxJS, REST APIs, Data Visualization
-
----
-
-## 🎓 Education
-**B.Sc. in Computer Engineering**  
-University of Isfahan  
-2014 – 2018  
-_Project: Autoclave Monitoring System_
+</div>
 
 ---
 
-## 🌐 Languages
-- English
-- Persian
+### 💼 Key Achievements
+
+Here are some metrics from my professional journey:
+
+#### 🚀 **Nexus (Senior Frontend Dev)**
+> *Focus: AI-Driven Tools & Enterprise Messaging*
+- **40% Faster Decisions:** Overhauled planning tools reducing user decision time.
+- **Offline-First Architecture:** Implemented `Zustand` + `IndexedDB` for seamless offline experiences.
+- **Team Growth:** Mentored **8+ engineers** and established **25+ CI/CD pipelines**.
+
+#### 🏢 **Kasra (Frontend Dev)**
+> *Focus: Enterprise Dashboards & Admin Panels*
+- **Performance:** Achieved **25% faster initial loads** via code splitting & bundle optimization.
+- **Scale:** Built **10+ production-grade apps** and a library of **100+ reusable components**.
+- **Engagement:** Increased feature engagement by **30%** with a new GEO-fence module.
 
 ---
 
-## 📫 Let’s connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadreza-taghimomeni/)
-- 🧑‍💻 [GitHub](https://github.com/mohammadreza-taghimomeni)
-- 🌐 [Portfolio](https://mrtaghimomeni.vercel.app/)
-- ✉️ [Email](mailto:mrm.tm95@gmail.com)
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadreza-taghimomeni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-taghimomeni&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-taghimomeni&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### 📬 Let's Connect
+
+If you are looking for a developer who cares about **Clean Code** and **Business Value**, feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadreza-taghimomeni/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+</p>
