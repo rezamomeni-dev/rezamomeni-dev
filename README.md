@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer+(8%2B+Years);React+%7C+Vue.js+%7C+TypeScript+%7C+Next.js;Architecting+Scalable+%26+High-Perf+Systems;Open+to+Relocation+to+Germany+(DE)+%26+Netherlands+(NL)" alt="Typing SVG" />
   
-  <h1 align="center">Hi, I'm Mohammad Reza Taghimomeni 👋</h1>
+  <h1 align="center">Hi, I'm Reza Momeni 👋</h1>
   
   <p align="center">
     <b>Senior Frontend Engineer</b> specialized in building enterprise-grade applications.
@@ -91,12 +91,12 @@ I use the best tools for the job. Here is my full arsenal:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadreza-taghimomeni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezamomeni-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-taghimomeni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-taghimomeni&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezamomeni-dev&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
