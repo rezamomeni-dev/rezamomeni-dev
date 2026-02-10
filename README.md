@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/mohammadreza-taghimomeni/" target="_blank">
+    <a href="https://www.linkedin.com/in/rezamomeni-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mrm.tm95@gmail.com">
@@ -92,7 +92,7 @@ I use the best tools for the job. Here is my full arsenal:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezamomeni-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-taghimomeni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamomeni-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 <br/>
 <div align="center">
@@ -106,7 +106,7 @@ I use the best tools for the job. Here is my full arsenal:
 I am available for interviews and can start the visa process immediately.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammadreza-taghimomeni/">
+  <a href="https://www.linkedin.com/in/rezamomeni-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:mrm.tm95@gmail.com">
