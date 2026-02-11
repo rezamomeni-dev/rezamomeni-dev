@@ -90,11 +90,11 @@ I use the best tools for the job. Here is my full arsenal:
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezamomeni-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamomeni-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
-<br/>
+<br/> -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezamomeni-dev&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
