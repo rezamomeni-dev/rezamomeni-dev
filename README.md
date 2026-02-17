@@ -69,9 +69,10 @@ I use the best tools for the job. Here is my full arsenal:
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rezamomeni-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamomeni-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="180" alt="languages graph" />
-  <br/><br/>
+  <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezamomeni-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezamomeni-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+</div><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezamomeni-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="streak graph" />
 </div>
 
